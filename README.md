@@ -8,14 +8,14 @@ Projeto desenvolvido para criar senhas seguras dentro do próprio site! <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <br>
 
 <p align="center">
-  <img alt="projeto Generate_password" src=".github/tela.jpg" width="100%">
+  <img alt="projeto Generate_password" src="//github/tela.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
