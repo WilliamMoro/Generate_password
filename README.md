@@ -15,7 +15,7 @@ Projeto desenvolvido para criar senhas seguras dentro do próprio site! <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Generate_password" src="//img/tela.jpg" width="100%">
+  <img alt="projeto Generate_password" src="//github/previw.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
