@@ -104,3 +104,5 @@ copyPasswordButton.addEventListener("click", (e) => {
     }, 1000);
   });
 });
+
+// pode ser injetado em outros sites
